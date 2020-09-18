@@ -4,4 +4,5 @@ A starting point for WebApps powered by golang, react-bootstrap. Simple Auth/Pro
 ## Stack Summary
 
 1.  golang-standards / project-layout 
-2.  
+2.  bootstrap 4.5.2
+3.  
